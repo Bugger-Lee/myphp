@@ -2,50 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2561a475-fa88-4a1c-8475-71f04d59a589" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/39-md5Demo.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/40-returnDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/41-&amp;oopDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/42-globalDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/43-includeDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/43-includedDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/44-requireDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/44-requiredDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/45-_FILE_Demo.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/yanhui/01-echoDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/02-typeDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/03-functionDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/04-typeJudge.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/05-defineDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/06-formDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/07-submitDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/08-stringInsertDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/09-operationalDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/10-ifDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/11-switchDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/12-whileDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/13-forDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/14-doWhileDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/15-breakDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/16-numberFunction.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/17-randDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/18-numberFormat.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/19-absDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/20-array01.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/20-array02.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/21-userDefinedArray.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/22-eachDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/23-listDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/24-arrayUnique.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/25-arrayFlipDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/26-arrayTwoDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/27-sortDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/28-ksortDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/29-shuffleDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/30-array_unshift.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/31-array_rand.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/32-currentDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/33-pathDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/34-realpathDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/35-filesizeDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/36-disk_free_space.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/37-dateDemo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/38-fileText.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/38-fileText2.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yanhui/38-fopenDemo.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,21 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="39-md5Demo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yanhui/function/39-md5Demo.php">
+      <file leaf-file-name="45-_FILE_Demo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yanhui/function/45-_FILE_Demo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="40-returnDemo.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/yanhui/function/40-returnDemo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="92">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -84,13 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01-textphp.php" />
-        <option value="$PROJECT_DIR$/01-hellophp.php" />
-        <option value="$PROJECT_DIR$/02-note.php" />
-        <option value="$PROJECT_DIR$/03-variate.php" />
-        <option value="$PROJECT_DIR$/04-print.php" />
-        <option value="$PROJECT_DIR$/05-dataType.php" />
-        <option value="$PROJECT_DIR$/06-definephp.php" />
         <option value="$PROJECT_DIR$/yanhui/01-echoDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/02-typeDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/03-functionDemo.php" />
@@ -135,6 +82,13 @@
         <option value="$PROJECT_DIR$/yanhui/38-fopenDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/function/39-md5Demo.php" />
         <option value="$PROJECT_DIR$/yanhui/function/40-returnDemo.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/41-&amp;oopDemo.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/42-globalDemo.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/43-includedDeno.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/44-requiredDemo.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/44-requireDemo.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/43-includeDemo.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/45-_FILE_Demo.php" />
       </list>
     </option>
   </component>
@@ -196,12 +150,6 @@
               <item name="myphp" type="b2602c69:ProjectViewProjectNode" />
               <item name="myphp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="yanhui" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="myphp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myphp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="yanhui" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="function" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -273,26 +221,28 @@
       <workItem from="1515712099740" duration="5274000" />
       <workItem from="1515819042872" duration="10588000" />
       <workItem from="1515925333406" duration="3062000" />
+      <workItem from="1515977376759" duration="1623000" />
+      <workItem from="1516021739428" duration="1393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59757000" />
+    <option name="totallyTimeSpent" value="62773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="234" y="14" width="1400" height="945" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24855492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24855492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -313,202 +263,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/01-testDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/01-textphp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/02-note.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/03-variate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/04-print.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/05-dataType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/06-definephp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/01-echoDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/02-typeDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/03-functionDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/04-typeJudge.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/05-defineDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/07-submitDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/08-stringInsertDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/09-operationalDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/10-ifDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/11-switchDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/12-whileDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/13-forDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/15-breakDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/14-doWhileDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/16-numberFunction.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/17-randDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/18-numberFormat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/19-absDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/20-array02.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/20-array01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/21-userDefinedArray.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/01-echoDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/02-typeDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/03-functionDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/04-typeJudge.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/05-defineDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/07-submitDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/08-stringInsertDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/09-operationalDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/10-ifDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/11-switchDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/12-whileDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/13-forDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/15-breakDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/14-doWhileDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/16-numberFunction.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/17-randDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/18-numberFormat.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/19-absDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/20-array02.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/20-array01.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/21-userDefinedArray.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -523,149 +298,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/22-eachDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/24-arrayUnique.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/23-listDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/25-arrayFlipDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/26-arrayTwoDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/27-sortDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/28-ksortDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/29-shuffleDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/30-array_unshift.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/31-array_rand.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/32-currentDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/33-pathDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/34-realpathDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/36-disk_free_space.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/35-filesizeDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/37-dateDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/38-fopenDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/38-fileText.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yanhui/38-fileText2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/22-eachDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/24-arrayUnique.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/23-listDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/25-arrayFlipDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/26-arrayTwoDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/27-sortDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/28-ksortDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/29-shuffleDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/30-array_unshift.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/31-array_rand.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/32-currentDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/33-pathDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/34-realpathDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/36-disk_free_space.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/35-filesizeDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/37-dateDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/38-fopenDemo.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/38-fileText.php" />
+    <entry file="file://$PROJECT_DIR$/yanhui/38-fileText2.php" />
     <entry file="file://$PROJECT_DIR$/yanhui/function/39-md5Demo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/41-&amp;oopDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/42-globalDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -674,6 +345,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/44-requiredDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/43-includedDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/44-requireDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/43-includeDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/45-_FILE_Demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding />
         </state>
       </provider>
