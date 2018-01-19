@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2561a475-fa88-4a1c-8475-71f04d59a589" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/48-htmlentities.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/49-addslashes.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/50-strtoupper.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/51-str_padDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/52-explodeDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/53-strtokDemo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yanhui/function/54-substrDemo.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,21 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="48-htmlentities.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yanhui/function/48-htmlentities.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="49-addslashes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yanhui/function/49-addslashes.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -41,17 +30,87 @@
         <entry file="file://$PROJECT_DIR$/yanhui/function/50-strtoupper.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="51-str_padDemo.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="51-str_padDemo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yanhui/function/51-str_padDemo.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="52-explodeDemo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanhui/function/52-explodeDemo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="53-strtokDemo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanhui/function/53-strtokDemo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="54-substrDemo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yanhui/function/54-substrDemo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16-numberFunction.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanhui/basic/16-numberFunction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17-randDemo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanhui/basic/17-randDemo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="18-numberFormat.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanhui/basic/18-numberFormat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19-absDemo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanhui/basic/19-absDemo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -65,9 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yanhui/07-submitDemo.php" />
-        <option value="$PROJECT_DIR$/yanhui/08-stringInsertDemo.php" />
-        <option value="$PROJECT_DIR$/yanhui/09-operationalDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/10-ifDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/11-switchDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/12-whileDemo.php" />
@@ -116,6 +172,9 @@
         <option value="$PROJECT_DIR$/yanhui/function/49-addslashes.php" />
         <option value="$PROJECT_DIR$/yanhui/function/50-strtoupper.php" />
         <option value="$PROJECT_DIR$/yanhui/function/51-str_padDemo.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/52-explodeDemo.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/53-strtokDemo.php" />
+        <option value="$PROJECT_DIR$/yanhui/function/54-substrDemo.php" />
       </list>
     </option>
   </component>
@@ -127,8 +186,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="234" />
-    <option name="y" value="14" />
+    <option name="x" value="491" />
+    <option name="y" value="15" />
     <option name="width" value="1400" />
     <option name="height" value="945" />
   </component>
@@ -166,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,6 +248,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,14 +318,15 @@
       <workItem from="1516109537092" duration="1114000" />
       <workItem from="1516197740238" duration="118000" />
       <workItem from="1516285085352" duration="1831000" />
+      <workItem from="1516318642459" duration="4084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65836000" />
+    <option name="totallyTimeSpent" value="69920000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="234" y="14" width="1400" height="945" extended-state="0" />
+    <frame x="491" y="15" width="1400" height="945" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24855492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -299,13 +359,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yanhui/08-stringInsertDemo.php" />
-    <entry file="file://$PROJECT_DIR$/yanhui/09-operationalDemo.php" />
-    <entry file="file://$PROJECT_DIR$/yanhui/10-ifDemo.php" />
-    <entry file="file://$PROJECT_DIR$/yanhui/11-switchDemo.php" />
-    <entry file="file://$PROJECT_DIR$/yanhui/12-whileDemo.php" />
-    <entry file="file://$PROJECT_DIR$/yanhui/13-forDemo.php" />
-    <entry file="file://$PROJECT_DIR$/yanhui/15-breakDemo.php" />
     <entry file="file://$PROJECT_DIR$/yanhui/14-doWhileDemo.php" />
     <entry file="file://$PROJECT_DIR$/yanhui/16-numberFunction.php" />
     <entry file="file://$PROJECT_DIR$/yanhui/17-randDemo.php" />
@@ -400,7 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -408,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -416,7 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,7 +481,7 @@
     <entry file="file://$PROJECT_DIR$/yanhui/function/48-htmlentities.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -439,7 +489,7 @@
     <entry file="file://$PROJECT_DIR$/yanhui/function/49-addslashes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -447,7 +497,7 @@
     <entry file="file://$PROJECT_DIR$/yanhui/function/50-strtoupper.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -455,7 +505,63 @@
     <entry file="file://$PROJECT_DIR$/yanhui/function/51-str_padDemo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/basic/16-numberFunction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/basic/17-randDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/basic/18-numberFormat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/basic/19-absDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/52-explodeDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/53-strtokDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanhui/function/54-substrDemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding />
         </state>
       </provider>
