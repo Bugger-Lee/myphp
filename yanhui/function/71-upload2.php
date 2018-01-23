@@ -6,6 +6,7 @@
  * Time: 22:05
  */ ?>
 <?php
+    // 存在路径错误
     $url = $_GET['url'];
     echo '<img src="'.$url.'">';
 ?>
