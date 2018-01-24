@@ -16,10 +16,13 @@
     // imagefill 区域填充
     imagefill($img,0,0,$blue);
     $white = imagecolorallocate($img,255,255,255);
+    // imageline 画一条线段
     imageline($img,0,0,200,200,$white);
     imageline($img,200,0,0,200,$white);
+    // imagestring 水平地画一行字符串
     imagestring($img,5,80,50,'Lee',$white);
     // imagepng 以 PNG 格式将图像输出到浏览器或文件
     imagepng($img);
+    // imagedestroy 销毁图像
     imagedestroy($img);
 ?>
