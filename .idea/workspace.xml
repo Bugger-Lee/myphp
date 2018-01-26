@@ -16,7 +16,7 @@
       <file leaf-file-name="74-imagecreateformpng.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yanhui/function/74-imagecreateformpng.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
+            <state relative-caret-position="207">
               <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
               <folding />
             </state>
@@ -36,8 +36,8 @@
       <file leaf-file-name="mysql.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysql.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="814">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -172,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +184,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,11 +261,12 @@
       <workItem from="1516664007323" duration="7661000" />
       <workItem from="1516750644697" duration="7385000" />
       <workItem from="1516889808433" duration="84000" />
+      <workItem from="1516974659963" duration="3417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110434000" />
+    <option name="totallyTimeSpent" value="113851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="39" width="1835" height="999" extended-state="0" />
@@ -635,7 +636,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/yanhui/function/74-imagecreateformpng.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
+        <state relative-caret-position="207">
           <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding />
         </state>
@@ -651,8 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mysql.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="814">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>

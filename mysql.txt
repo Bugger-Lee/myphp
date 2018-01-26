@@ -19,8 +19,32 @@
     see
     \c
 // 显示当前存在的数据库
-   选择你需要的数据库
-   查看当前选择的数据库
-   查看一张表的所有内容
-   根据数据库设置中文编码
-   创建一个新的数据库
+    show databases;
+// 选择你需要的数据库
+   use ...;
+// 查看有多少张表
+   show tables;
+// 查看当前选择的数据库
+// 查看一张表的所有内容
+   select * from ...;
+// 根据数据库设置中文编码
+   set names gbk;
+// 创建一个新的数据库
+   create database book
+// 在数据库中创建一张表
+   create table users(
+   username VARCHAR(20),
+   sex CHAR(1),
+   birth DATETIME);
+// 查看表的结构
+   describe users
+// 向表中插入一条数据
+   insert into users (username,sex,birth) values ('Lee','0',now());
+// 显示表中指定的数据
+   select username from users
+// 筛选指定的数据
+   select * from users where sex='0';
+// 删除指定的数据
+   delete from users sex='0'
+
+
