@@ -1,4 +1,4 @@
-// 查看版本号
+﻿// 查看版本号
     select version();
 // 显示使用者和日期
     select user(),select now();
@@ -45,6 +45,6 @@
 // 筛选指定的数据
    select * from users where sex='0';
 // 删除指定的数据
-   delete from users sex='0'
+   delete from users sex='0'2018/1/27
 
 
