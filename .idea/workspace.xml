@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2561a475-fa88-4a1c-8475-71f04d59a589" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/mysql.txt" afterPath="$PROJECT_DIR$/mysql.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myaql2" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/yanhui/mysql.txt" afterPath="$PROJECT_DIR$/mysql.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,51 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="74-imagecreateformpng.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yanhui/function/74-imagecreateformpng.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mysql.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysql.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="377">
+              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="75-imagettftext.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yanhui/function/75-imagettftext.php">
+      <file leaf-file-name="myaql2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myaql2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="76-getimagesize.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yanhui/function/76-getimagesize.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="23">
+              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -71,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yanhui/function/40-returnDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/function/41-&amp;oopDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/function/42-globalDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/function/43-includedDeno.php" />
@@ -121,6 +92,7 @@
         <option value="$PROJECT_DIR$/yanhui/function/73-codeDemo.php" />
         <option value="$PROJECT_DIR$/yanhui/function/75-imagettftext.php" />
         <option value="$PROJECT_DIR$/yanhui/function/76-getimagesize.php" />
+        <option value="$PROJECT_DIR$/myaql2" />
         <option value="$PROJECT_DIR$/mysql.txt" />
       </list>
     </option>
@@ -172,6 +144,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,8 +157,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,6 +167,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\test\myphp" />
       <recent name="D:\wamp\www\test\myphp\test" />
     </key>
   </component>
@@ -262,11 +235,12 @@
       <workItem from="1516750644697" duration="7385000" />
       <workItem from="1516889808433" duration="84000" />
       <workItem from="1516974659963" duration="3417000" />
+      <workItem from="1517353708543" duration="5581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113851000" />
+    <option name="totallyTimeSpent" value="119432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="39" width="1835" height="999" extended-state="0" />
@@ -302,13 +276,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yanhui/function/47-nl2brDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yanhui/function/45-_FILE_Demo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -636,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/yanhui/function/74-imagecreateformpng.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="69">
           <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding />
         </state>
@@ -650,10 +617,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myaql2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mysql.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="377">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
           <folding />
         </state>
       </provider>

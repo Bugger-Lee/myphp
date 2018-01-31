@@ -1,4 +1,5 @@
-﻿// 查看版本号
+﻿                                                基本操作
+// 查看版本号
     select version();
 // 显示使用者和日期
     select user(),select now();
@@ -37,7 +38,7 @@
    sex CHAR(1),
    birth DATETIME);
 // 查看表的结构
-   describe users
+   describe users // desc users
 // 向表中插入一条数据
    insert into users (username,sex,birth) values ('Lee','0',now());
 // 显示表中指定的数据
@@ -45,7 +46,12 @@
 // 筛选指定的数据
    select * from users where sex='0';
 // 删除指定的数据
-   delete from users sex='0'
-2018、1、19
-
-
+   delete from users where sex='0'
+// 按指定数据排序
+    select * from users order by birth asc;(asc正序，desc倒序)
+// 删除指定的表
+    drop table users
+// 删除指定的数据库
+    drop database books
+// 修改指定的数据
+    update users set sex='0' where username='Qin';

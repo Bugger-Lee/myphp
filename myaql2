@@ -1,0 +1,3 @@
+                    基本函数
+// concat 两个字符串相连
+    select concat('Mr.','Lee')
